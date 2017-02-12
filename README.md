@@ -8,7 +8,10 @@ Usage:
 
 Variables in settings.py
 > REDIS_HOST = 'localhost'
+
 > REDIS_PORT = 6379
+
 > REDIS_DB = 0
+
 > REDIS_KEY_EXPIRE_TIME = 3600
 
