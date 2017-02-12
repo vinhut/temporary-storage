@@ -1,0 +1,3 @@
+Django==1.10.5
+django-throttle-requests==0.5.4
+redis==2.10.5
